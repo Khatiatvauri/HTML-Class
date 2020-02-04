@@ -1,0 +1,25 @@
+.green-box{
+background-color: cadetblue;
+border: 2px solid black;
+}
+
+.navigation{
+    float: right;
+}
+.logo img{
+ height: 150px
+ 
+}
+.clear{
+    clear: both;
+}
+.yellow-box{
+    width: 500px;
+}
+
+.main.box{
+    content: "";
+    clear: both;
+    display: block;
+}
+
